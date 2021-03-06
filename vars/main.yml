@@ -1,4 +1,4 @@
 ---
 # file: roles/corosync/vars/main.yml
-corosync_apt_backports: "deb http://ftp.debian.org/debian jessie-backports main"
-corosync_default_release: jessie-backports
+corosync_apt_backports: "deb http://ftp.debian.org/debian buster-backports main"
+corosync_default_release: buster-backports
